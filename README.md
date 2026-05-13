@@ -43,18 +43,5 @@ Conteúdo:
 opencv-python
 PyQt5
 
-## 💾 Salvamento de Arquivos
 
-Todas as mídias são armazenadas automaticamente na pasta:
 
-midias/
-
-🔥 Melhorias Futuras
-Integração com IA real
-OCR para documentos
-Reconhecimento facial
-Filtros em tempo real
-Modo selfie
-Exportação em PDF
-Assistente por voz
-Armazenamento em nuvem
