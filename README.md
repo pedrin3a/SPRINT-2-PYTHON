@@ -43,7 +43,7 @@ Conteúdo:
 opencv-python
 PyQt5
 
-##💾 Salvamento de Arquivos
+## 💾 Salvamento de Arquivos
 
 Todas as mídias são armazenadas automaticamente na pasta:
 
